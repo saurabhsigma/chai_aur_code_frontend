@@ -1,0 +1,42 @@
+.bottom-div {
+  position: fixed;
+  margin-bottom: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+  bottom: 0;
+  left: 0;
+  height: 5%;
+  width: 80%;
+  background-color: #ffffff;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+button {
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  box-shadow: 1px 2px rgb(216, 213, 213) ;
+}
+
+/* Button color styles */
+.red { background-color: red; }
+.green { background-color: green; }
+.blue { background-color: blue; }
+.olive { background-color: olive; }
+.gray { background-color: gray; }
+.yellow { background-color: yellow; color: black; }
+.pink { background-color: pink; color: black; }
+.purple { background-color: purple; color: black; }
+.lavender { background-color: lavender; color: black; }
+.white { background-color: white; color: black; }
+.black { background-color: black; }
